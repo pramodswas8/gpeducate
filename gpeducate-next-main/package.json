@@ -1,0 +1,30 @@
+{
+  "name": "goeducate-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.11.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.18",
+    "@mui/material": "^5.14.18",
+    "@mui/material-nextjs": "^5.15.11",
+    "next": "14.0.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-redux": "~7.2.2",
+    "redux": "~4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^3.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.0.3"
+  }
+}
