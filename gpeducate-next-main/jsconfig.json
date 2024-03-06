@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "paths": {
-      "@/*": ["./src/*"],
-      "@/core": ["./src/core"],
-      "@/config": ["./src/config"]
-    }
-  }
-}
